@@ -1,0 +1,8 @@
+crawls
+jawiktionary
+*.html
+*.log
+*_old.*
+*.txt
+*.xlsx
+*.json
