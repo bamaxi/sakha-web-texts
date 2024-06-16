@@ -6,3 +6,5 @@ jawiktionary
 *.txt
 *.xlsx
 *.json
+__pycache__
+.scrapy
