@@ -33,6 +33,14 @@ For Russian in the **parallel Bible** domain, Russian Synodal Bible was chosen.
 
 A range of metadata is scraped for the texts, depending on the domain.
 
+## Usage
+
+The code for `forums` and `news` is based on [Scrapy library](https://scrapy.org/) and could be run from the corresponding directories like below (e.g. for *ysia*):
+
+```bash
+# in /edersaas
+scrapy crawl ysia
+```
 
 --- 
 <a name="ru"></a>
@@ -68,3 +76,13 @@ A range of metadata is scraped for the texts, depending on the domain.
 ## Признаки в датасете
 
 Для текстов доступен ряд метаданных, которые определяются доменом текста.
+
+## Использование
+
+Код для `forums` and `news` основан на [библиотеке Scrapy](https://scrapy.org/) и может быть запущен из соответствующих папок как в примере ниже (для *ysia*):
+
+```bash
+# в /edersaas
+scrapy crawl ysia
+```
+

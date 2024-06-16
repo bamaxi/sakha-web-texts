@@ -4,6 +4,7 @@ jawiktionary
 *.log
 *_old.*
 *.txt
+!requirements.txt
 *.xlsx
 *.json
 __pycache__
